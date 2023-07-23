@@ -1,0 +1,14 @@
+C:\Users\Павел\Desktop\Прошрамирование\Леция 1\exampels01\bin\Debug\net8.0\exampels01.exe
+C:\Users\Павел\Desktop\Прошрамирование\Леция 1\exampels01\bin\Debug\net8.0\exampels01.deps.json
+C:\Users\Павел\Desktop\Прошрамирование\Леция 1\exampels01\bin\Debug\net8.0\exampels01.runtimeconfig.json
+C:\Users\Павел\Desktop\Прошрамирование\Леция 1\exampels01\bin\Debug\net8.0\exampels01.dll
+C:\Users\Павел\Desktop\Прошрамирование\Леция 1\exampels01\bin\Debug\net8.0\exampels01.pdb
+C:\Users\Павел\Desktop\Прошрамирование\Леция 1\exampels01\obj\Debug\net8.0\exampels01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\Прошрамирование\Леция 1\exampels01\obj\Debug\net8.0\exampels01.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\Прошрамирование\Леция 1\exampels01\obj\Debug\net8.0\exampels01.AssemblyInfo.cs
+C:\Users\Павел\Desktop\Прошрамирование\Леция 1\exampels01\obj\Debug\net8.0\exampels01.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\Прошрамирование\Леция 1\exampels01\obj\Debug\net8.0\exampels01.dll
+C:\Users\Павел\Desktop\Прошрамирование\Леция 1\exampels01\obj\Debug\net8.0\refint\exampels01.dll
+C:\Users\Павел\Desktop\Прошрамирование\Леция 1\exampels01\obj\Debug\net8.0\exampels01.pdb
+C:\Users\Павел\Desktop\Прошрамирование\Леция 1\exampels01\obj\Debug\net8.0\exampels01.genruntimeconfig.cache
+C:\Users\Павел\Desktop\Прошрамирование\Леция 1\exampels01\obj\Debug\net8.0\ref\exampels01.dll
